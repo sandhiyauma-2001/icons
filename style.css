@@ -1,0 +1,31 @@
+body{
+   display:flex;
+   border:500px;
+   margin:auto;
+}
+.image{
+    background-color: aqua;
+    height:200px;
+    width:200px;
+    font-size: 160px;
+    margin: 200px;
+    padding-left: 48px;
+    padding-top:48px;
+    
+}    
+.snap{
+    background-color: darkorange;
+    height:250px;
+    width:250px;
+    font-size:150px;
+    padding-left: 80px;
+    text-align: center;
+    margin: 200px;
+    
+}
+.icons:hover{
+    color:deepskyblue;
+}
+.css:hover{
+    color:rgb(239, 12, 110);
+}
